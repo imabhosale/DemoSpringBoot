@@ -7,7 +7,7 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
-<!--		kas-->
+
 	</parent>
 	<groupId>com.demo</groupId>
 	<artifactId>demo</artifactId>
